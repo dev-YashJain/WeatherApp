@@ -29,5 +29,6 @@ This is a simple weather application built using React. It allows users to searc
 - If the city name is not valid, an error message will be shown.
 - 
 ## Screenshots
-![Screenshot 1](weather_app\src\Components\Assets\Screenshot.png)
+![Screenshot 1](src/Components/Assets/Screenshot.png)
+
 
