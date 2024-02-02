@@ -27,7 +27,9 @@ This is a simple weather application built using React. It allows users to searc
 - Enter a city name in the search bar and press Enter or click the search icon.
 - Weather information for the specified city will be displayed.
 - If the city name is not valid, an error message will be shown.
-- 
+
+Images sourced from [Unsplash](https://unsplash.com/).
+
 ## Screenshots
 ![Screenshot 1](src/Components/Assets/Screenshot.png)
 
